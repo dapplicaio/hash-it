@@ -1,2 +1,0 @@
-# hashit-smart-contract
-
