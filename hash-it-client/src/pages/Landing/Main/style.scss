@@ -1,0 +1,26 @@
+.landing-main {
+  margin-top: 155px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .landing-start {
+    margin-top: 50px;
+    margin-bottom: 100px;
+  }
+}
+
+.hashIt-title {
+  width: 70%;
+  color: #606060;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 300;
+}
+
+.hashIt-text {
+  width: 50%;
+  text-align: center;
+  color: #9f9f9f;
+  margin-bottom: 50px;
+}

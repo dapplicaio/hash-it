@@ -1,0 +1,30 @@
+.hash-steps {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .stepOne-form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .stepOne-skip {
+    display: flex;
+    align-items: center;
+    margin: 30px 0;
+  }
+}
+
+.hash-step-title {
+  width: 70%;
+  color: #606060;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 300;
+}
+
+.btns-container {
+  width: 520px;
+  display: flex;
+  justify-content: flex-end;
+}

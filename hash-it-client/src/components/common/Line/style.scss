@@ -1,0 +1,8 @@
+.line-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  .line {
+    border-top: 3px solid #e5e5e5;
+  }
+}
